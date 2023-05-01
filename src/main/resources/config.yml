@@ -1,0 +1,17 @@
+chat: "&8[&e5&8] &9&lThor &f%PLAYER% &8>> &f%MESSAGE%"
+staffchat: "&9&lAC &f%PLAYER%&6 &8≻≻ &f%MESSAGE%"
+sc-toggle-on: "&9&lAC &7turn &a&lON"
+sc-toggle-off: "&9&lAC &7turn &4&lOFF"
+noperm: "&9&lRagnarok &8≻≻ &7Na tento příkaz nemáš dostatečná oprávnění!"
+spawnfilenull: "&9&lRagnarok &8≻≻ &7Spawn neni nastaven"
+teleportspawn: "&9&lRagnarok &8≻≻ &7Byl si teleportován na spawn"
+success_spawn_create: "&9&lRagnarok &8≻≻ &7Spawn byl vytvořen"
+message:
+  join: "&8[&a&l+&8] &7%PLAYER%"
+  leave: "&8[&c&l-&8] &7%PLAYER%"
+chat_arg:
+  - &8&l∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  - &8Chat clear
+  - &9- /ragnarok chat clear
+  - &8&l∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+

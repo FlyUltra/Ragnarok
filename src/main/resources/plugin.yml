@@ -1,0 +1,18 @@
+name: Ragnarok
+version: ${project.version}
+main: ragnarok.main.Main
+api-version: 1.16
+authors: [ Fly_Ultra ]
+description: Ragnarok implement to minecraft
+
+commands:
+  adminchat:
+    aliases: [ ac, adminchat, staffchat, staffc ]
+  thor:
+    description: Thor
+  spawn:
+    description: Teleport to spawn
+  setspawn:
+    description: Create spawn location
+  ragnarok:
+
